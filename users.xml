@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<users>
+<user>
+    <username>Arfan A Khan</username>
+    <password>123456</password>
+</user>
+<user>
+    <username>Ronaldo</username>
+    <password>456123</password>
+</user>
+<user>
+    <username>Sherjil</username>
+    <password>786123</password>
+</user>
+</users>
